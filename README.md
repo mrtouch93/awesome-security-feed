@@ -1,6 +1,10 @@
 # Awesome Security Feeds
 A semi-curated list of Security Feed
 
+You can import the opml file to a service like Feedly
+
+Below a list of all the sites, feel free to suggest others!
+
 # Must Read
 * [TorrentFreak](https://torrentfreak.com) 
 
