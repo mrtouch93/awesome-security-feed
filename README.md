@@ -1,5 +1,5 @@
 # Awesome Security Feeds
-A semi-curated list of Security Feed
+A semi-curated list of Security Feeds
 
 You can import the opml file to a service like Feedly
 
