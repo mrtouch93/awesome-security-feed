@@ -428,7 +428,7 @@ Below a list of all the sites, feel free to suggest others!
 
 * [Jump ESP, jump!](https://jumpespjump.blogspot.com/) 
 
-* [SerHack – Security research on SerHack – Security researcher](https://serhack.me/) 
+* [SerHack – Security researcher](https://serhack.me/) 
 
 * [Carnal0wnage & Attack Research Blog](http://carnal0wnage.attackresearch.com/) 
 
