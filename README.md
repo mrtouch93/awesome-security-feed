@@ -76,7 +76,7 @@ Below a list of all the sites, feel free to suggest others!
 
 * [Zeus News - Olimpo Informatico](https://www.zeusnews.it/) 
 
-* [A/I](https://autistici.org/underscore/) 
+* [Autistici](https://autistici.org/underscore/) 
 
 * [Dark Space Blogspot](http://darkwhite666.blogspot.com/) 
 
@@ -217,6 +217,8 @@ Below a list of all the sites, feel free to suggest others!
 
 * [xorl %eax, %eax](https://xorl.wordpress.com) 
 
+* [TaoSecurity Blog](https://taosecurity.blogspot.com/) 
+
 * [Updates from the Tor Project](https://blog.torproject.org/) 
 
 * [thinkst Thoughts...](https://blog.thinkst.com/) 
@@ -231,6 +233,8 @@ Below a list of all the sites, feel free to suggest others!
 * [Add / Xor / Rol](http://addxorrol.blogspot.com/) 
 
 * [Intercept the planet!](https://intercepter-ng.blogspot.com/) 
+
+* [@Mediaservice.net Technical Blog](https://techblog.mediaservice.net) 
 
 * [AlienVault Labs Blog](https://cybersecurity.att.com/blogs/security-essentials) 
 
@@ -271,6 +275,8 @@ Below a list of all the sites, feel free to suggest others!
 * [anti-virus rants](http://anti-virus-rants.blogspot.com/) 
 
 * [Hackw0rm.net](https://www.hackw0rm.net/) 
+
+* [Attack and Defense Labs](http://blog.andlabs.org/) 
 
 * [AverageSecurityGuy](https://www.averagesecurityguy.info/) 
 
@@ -327,6 +333,8 @@ Below a list of all the sites, feel free to suggest others!
 * [Bromium Labs](https://www.bromium.com) 
 
 * [The Ethical Hacker Network](https://www.ethicalhacker.net) 
+
+* [Hacking and security](https://hackingandsecurity.blogspot.com/) 
 
 * [The Grymoire](https://grymoire.wordpress.com) 
 
@@ -386,6 +394,8 @@ Below a list of all the sites, feel free to suggest others!
 
 * [Blog - Decent Security](http://decentsecurity.com/blog/) 
 
+* [SpiderLabs Blog from Trustwave](https://www.trustwave.com/en-us/) 
+
 * [Mogozobo](https://www.mogozobo.com) 
 
 * [Stealing the Network](https://stealingthe.network) 
@@ -397,6 +407,8 @@ Below a list of all the sites, feel free to suggest others!
 * [Astr0baby's not so random thoughts _____ rand() % 100;](https://astr0baby.wordpress.com) 
 
 * [Hakin9 – IT Security Magazine](https://hakin9.org) 
+
+* [Blog](http://blog.gdssecurity.com/labs/) 
 
 * [TrendLabs Security Intelligence Blog](https://blog.trendmicro.com/trendlabs-security-intelligence) 
 
@@ -414,6 +426,8 @@ Below a list of all the sites, feel free to suggest others!
 
 * [Javvad Malik](https://javvadmalik.com) 
 
+* [Shell is Only the Beginning](https://www.darkoperator.com/) 
+
 * [NetSPI Blog](https://blog.netspi.com) 
 
 * [Eric Conrad](https://www.ericconrad.com/) 
@@ -428,7 +442,7 @@ Below a list of all the sites, feel free to suggest others!
 
 * [Jump ESP, jump!](https://jumpespjump.blogspot.com/) 
 
-* [SerHack – Security researcher](https://serhack.me/) 
+* [SerHack – Security research on SerHack – Security researcher](https://serhack.me/) 
 
 * [Carnal0wnage & Attack Research Blog](http://carnal0wnage.attackresearch.com/) 
 
@@ -452,11 +466,15 @@ Below a list of all the sites, feel free to suggest others!
 
 * [XyliBox](https://www.xylibox.com/) 
 
+* [Carnal0wnage & Attack Research Blog](http://carnal0wnage.attackresearch.com/) 
+
 * [The Sakurity Blog](https://sakurity.com/blog/) 
 
 * [thepcn3rd - Passion for Infosec](https://thepcn3rd.blogspot.com/) 
 
 * [| bohops |](https://bohops.com) 
+
+* [Real-time communications security on Communication Breakdown - real-time communications security](https://www.rtcsec.com/) 
 
 * [blackMORE Ops](https://www.blackmoreops.com) 
 
@@ -524,6 +542,8 @@ Below a list of all the sites, feel free to suggest others!
 
 * [enigma0x3](https://enigma0x3.net) 
 
+* [Posts on malicious.link](https://malicious.link/post/) 
+
 * [Hacking Exposed Computer Forensics Blog](https://www.hecfblog.com/) 
 
 * [Volatility Labs](https://volatility-labs.blogspot.com/) 
@@ -541,6 +561,8 @@ Below a list of all the sites, feel free to suggest others!
 * [Security on the edge](http://edge-security.blogspot.com/) 
 
 * [Délimiteur de données](http://delimitry.blogspot.com/) 
+
+* [sirdarckcat](http://sirdarckcat.blogspot.com/) 
 
 * [Aditya Agrawal](http://localhost) 
 
@@ -587,6 +609,8 @@ Below a list of all the sites, feel free to suggest others!
 * [Inspired-Sec](https://blog.inspired-sec.com/) 
 
 * [Stories by Scott J Roberts on Medium](https://medium.com/@sroberts?source=rss-62a130e55951------2) 
+
+* [Aditya Agrawal](http://localhost) 
 
 * [Fortinet Blog](https://www.fortinet.com/bin/fortinet/allblogsrss?search=threat-research) 
 
@@ -653,7 +677,7 @@ Below a list of all the sites, feel free to suggest others!
 
 * [Bug Bounty POC](https://bugbountypoc.com) 
 
-* [Telekom Security](https://bugbountypoc.com) 
+* [Telekom Security](https://telekomsecurity.github.io/) 
 
 * [Random stuff by yappare](https://blog.yappare.com/) 
 
@@ -676,6 +700,8 @@ Below a list of all the sites, feel free to suggest others!
 * [the world. according to koto](http://blog.kotowicz.net/) 
 
 * [Patrik Fehrenbach](https://blog.it-securityguard.com) 
+
+* [PortSwigger Blog](https://portswigger.net/blog) 
 
 # Hacking Distro
 * [BackBox Linux blogs](https://blog.backbox.org) 
@@ -700,7 +726,7 @@ Below a list of all the sites, feel free to suggest others!
 
 * [The Hacker News](https://thehackernews.com/) 
 
-* [ThreaPost](https://threatpost.com) 
+* [ThreatPost](https://threatpost.com) 
 
 * [Security Affairs](https://securityaffairs.co/wordpress) 
 
