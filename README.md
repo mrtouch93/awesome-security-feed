@@ -5,8 +5,24 @@ You can import the opml file to a service like Feedly, Tiny Tiny RSS or similar.
 
 Below a list of all the sites, feel free to suggest others!
 
-
-# CTF
+## Contents
+- [CTF](#CTF)
+- [Companies](#Companies)
+- [Conferences & Video](#Conferences_&_Video)
+- [CyberIntelligence](#CyberIntelligence)
+- [Forensics](#Forensics)
+- [Hacking Distro](#Hacking_Distro)
+- [Italiano](#Italiano)
+- [Malware](#Malware)
+- [Miscellaneous](#Miscellaneous)
+- [Pentest](#Pentest)
+- [Privacy](#Privacy)
+- [Research](#Research)
+- [Security News](#Security_News)
+- [Security Tools](#Security_Tools)
+- [Web Security](#Web_Security)
+- [reddit](#reddit)
+## CTF
 * [#!/slash/note](https://leonjza.github.io/) 
 
 * [BalalaikaCr3w](https://ctfcrew.org) 
@@ -19,7 +35,7 @@ Below a list of all the sites, feel free to suggest others!
 
 * [khr@sh#: echo $GREETING](https://khr0x40sh.wordpress.com) 
 
-# Companies
+## Companies
 * [BugCrowd](https://www.bugcrowd.com) 
 
 * [Cofense](https://cofense.com) 
@@ -74,7 +90,7 @@ Below a list of all the sites, feel free to suggest others!
 
 * [Yubico](https://www.yubico.com) 
 
-# Conferences & Video
+## Conferences_&_Video
 * [Defcon](https://www.defcon.org/) 
 
 * [Irongeek's Security Site](http://www.irongeek.com/) 
@@ -87,7 +103,7 @@ Below a list of all the sites, feel free to suggest others!
 
 * [media.ccc.de - NEWS](http://media.ccc.de) 
 
-# CyberIntelligence
+## CyberIntelligence
 * [Automating OSINT Blog](http://www.automatingosint.com/blog) 
 
 * [Cyber Strategies for a World at War](https://cyberstrategies.wordpress.com) 
@@ -102,7 +118,7 @@ Below a list of all the sites, feel free to suggest others!
 
 * [bellingcat](https://www.bellingcat.com) 
 
-# Forensics
+## Forensics
 * [Forensic Focus](https://www.forensicfocus.com) 
 
 * [Hacking Exposed Computer Forensics Blog](https://www.hecfblog.com/) 
@@ -111,7 +127,7 @@ Below a list of all the sites, feel free to suggest others!
 
 * [PC's Xcetra Support](https://pcsxcetrasupport3.wordpress.com) 
 
-# Hacking Distro
+## Hacking_Distro
 * [BackBox Linux blogs](https://blog.backbox.org) 
 
 * [DistroWatch.com: News](http://distrowatch.com/) 
@@ -122,7 +138,7 @@ Below a list of all the sites, feel free to suggest others!
 
 * [WeakNet Labs](http://www.weaknetlabs.com/) 
 
-# Italiano
+## Italiano
 * [Andrea Draghetti](https://www.andreadraghetti.it) 
 
 * [Arturo Di Corinto](https://dicorinto.it) 
@@ -179,7 +195,7 @@ Below a list of all the sites, feel free to suggest others!
 
 * [oneOpenSource](http://www.oneopensource.it) 
 
-# Malware
+## Malware
 * [0x3a - Security Specialist and programmer by trade](https://blog.0x3a.com/) 
 
 * [AlienVault Labs Blog](https://cybersecurity.att.com/blogs/security-essentials) 
@@ -208,7 +224,7 @@ Below a list of all the sites, feel free to suggest others!
 
 * [contagio](http://contagiodump.blogspot.com/) 
 
-# Miscellaneous
+## Miscellaneous
 * [#_shellntel](https://www.shellntel.com/) 
 
 * [0x00sec - The Home of the Hacker - Monthly top topics](https://0x00sec.org/top/monthly) 
@@ -443,7 +459,7 @@ Below a list of all the sites, feel free to suggest others!
 
 * [xorl %eax, %eax](https://xorl.wordpress.com) 
 
-# Pentest
+## Pentest
 * [0xFFFF@blog:~$](https://blog.0xffff.info) 
 
 * [@Mediaservice.net Technical Blog](https://techblog.mediaservice.net) 
@@ -522,12 +538,12 @@ Below a list of all the sites, feel free to suggest others!
 
 * [🔐Blog of Osanda](https://osandamalith.com) 
 
-# Privacy
+## Privacy
 * [EFF](https://www.eff.org/rss/updates.xml) 
 
 * [Updates from the Tor Project](https://blog.torproject.org/) 
 
-# Research
+## Research
 * [/dev/random](https://blog.rootshell.be) 
 
 * [APT::WTF - APTortellini’s blog](http://aptw.tf/) 
@@ -604,7 +620,7 @@ Below a list of all the sites, feel free to suggest others!
 
 * [| bohops |](https://bohops.com) 
 
-# Security News
+## Security_News
 * [Dark Reading](https://www.darkreading.com) 
 
 * [Graham Cluley](https://grahamcluley.com) 
@@ -631,12 +647,12 @@ Below a list of all the sites, feel free to suggest others!
 
 * [US-CERT Current Activity](https://us-cert.cisa.gov/) 
 
-# Security Tools
+## Security_Tools
 * [KitPloit - PenTest Tools!](http://www.kitploit.com/) 
 
 * [ToolsWatch.org](https://www.toolswatch.org) 
 
-# Web Security
+## Web_Security
 * [Agarri : Sécurité informatique offensive](https://www.agarri.fr/blog) 
 
 * [Brett Buerhaus](https://buer.haus) 
@@ -675,7 +691,7 @@ Below a list of all the sites, feel free to suggest others!
 
 * [tint0](https://blog.tint0.com/) 
 
-# reddit
+## reddit
 * [Blackhat Library](https://www.reddit.com/r/blackhat/) 
 
 * [Computer Forensics](https://www.reddit.com/r/computerforensics/) 
