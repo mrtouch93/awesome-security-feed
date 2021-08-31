@@ -8,7 +8,7 @@ Below a list of all the sites, feel free to suggest others!
 ## Contents
 - [CTF](#CTF)
 - [Companies](#Companies)
-- [Conferences & Video](#Conferences_&_Video)
+- [Conferences & Video](#Conferences_and_Video)
 - [CyberIntelligence](#CyberIntelligence)
 - [Forensics](#Forensics)
 - [Hacking Distro](#Hacking_Distro)
@@ -90,7 +90,7 @@ Below a list of all the sites, feel free to suggest others!
 
 * [Yubico](https://www.yubico.com) 
 
-## Conferences_&_Video
+## Conferences_and_Video
 * [Defcon](https://www.defcon.org/) 
 
 * [Irongeek's Security Site](http://www.irongeek.com/) 
