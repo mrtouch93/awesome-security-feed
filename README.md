@@ -8,6 +8,7 @@ Below a list of all the sites, feel free to suggest others!
 ## Contents
 - [CTF](#CTF)
 - [Companies](#Companies)
+- [Companies research](#Companies_research)
 - [Conferences & Video](#Conferences_and_Video)
 - [CyberIntelligence](#CyberIntelligence)
 - [Forensics](#Forensics)
@@ -38,15 +39,7 @@ Below a list of all the sites, feel free to suggest others!
 ## Companies
 * [BugCrowd](https://www.bugcrowd.com) 
 
-* [Cofense](https://cofense.com) 
-
 * [CrowdStrike](https://www.crowdstrike.com/blog) 
-
-* [Forcepoint](https://www.forcepoint.com/) 
-
-* [Fortinet Blog](https://www.fortinet.com/bin/fortinet/allblogsrss?search=threat-research) 
-
-* [Google Online Security Blog](http://security.googleblog.com/) 
 
 * [HIPAA News, Web & Email Security Tips & News - Plus More | LuxSci](https://luxsci.com/blog) 
 
@@ -58,19 +51,11 @@ Below a list of all the sites, feel free to suggest others!
 
 * [Mozilla Security Blog](https://blog.mozilla.org/security) 
 
-* [Netwrix Blog | Insights for Cybersecurity and IT Pros](https://blog.netwrix.com) 
-
 * [ProtonMail Blog](https://protonmail.com/blog) 
 
 * [Qualys Security Blog](https://blog.qualys.com) 
 
-* [Rapid7 Blog](https://blog.rapid7.com/) 
-
-* [Red Hat Security](https://www.redhat.com/en/rss/blog/channel/security) 
-
 * [Secureworks Blog](https://www.secureworks.com/blog) 
-
-* [Security – Cisco Blogs](https://blogs.cisco.com) 
 
 * [Shodan Blog](https://blog.shodan.io/) 
 
@@ -80,15 +65,16 @@ Below a list of all the sites, feel free to suggest others!
 
 * [Sucuri Blog](https://blog.sucuri.net) 
 
-* [Tenable Blog](https://www.tenable.com/blog-rss) 
-
-* [Threat Research](http://www.fireeye.com/blog/threat-research.html) 
-
 * [TrustedSec](https://www.trustedsec.com) 
 
-* [VerSprite](https://versprite.com) 
+## Companies_research
+* [Fortinet Blog](https://www.fortinet.com/bin/fortinet/allblogsrss?search=threat-research) 
 
-* [Yubico](https://www.yubico.com) 
+* [Google Online Security Blog](http://security.googleblog.com/) 
+
+* [Shielder](https://www.shielder.it/blog/) 
+
+* [Threat Research](http://www.fireeye.com/blog/threat-research.html) 
 
 ## Conferences_and_Video
 * [Defcon](https://www.defcon.org/) 
@@ -130,8 +116,6 @@ Below a list of all the sites, feel free to suggest others!
 ## Hacking_Distro
 * [BackBox Linux blogs](https://blog.backbox.org) 
 
-* [DistroWatch.com: News](http://distrowatch.com/) 
-
 * [Kali Linux](https://www.kali.org) 
 
 * [Tails - News](https://tails.boum.org/news/index.en.html) 
@@ -148,8 +132,6 @@ Below a list of all the sites, feel free to suggest others!
 * [Codice Insicuro, blog di Cyber Security, sviluppo sicuro, code review e altro.](https://codiceinsicuro.it/) 
 
 * [Cyber Division](https://cyberdivision.net) 
-
-* [Cyber Security](https://cybersecurity.startupitalia.eu) 
 
 * [CyberDifesa.it](https://www.cyberdifesa.it) 
 
@@ -239,8 +221,6 @@ Below a list of all the sites, feel free to suggest others!
 
 * [A Few Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com) 
 
-* [Active questions tagged linux - Information Security Stack Exchange](https://security.stackexchange.com/questions/tagged/?tagnames=linux&sort=active) 
-
 * [Add / Xor / Rol](http://addxorrol.blogspot.com/) 
 
 * [Aditya Agrawal](https://manifestsecurity.com/) 
@@ -269,8 +249,6 @@ Below a list of all the sites, feel free to suggest others!
 
 * [CyberWatch](https://whitehatcheryl.com) 
 
-* [Cybercrime Magazine](http://cybersecurityventures.com) 
-
 * [Cybersecurity Blog](http://infosecninja.blogspot.com/) 
 
 * [Daniel Miessler](https://danielmiessler.com) 
@@ -290,6 +268,8 @@ Below a list of all the sites, feel free to suggest others!
 * [Eric Conrad](https://www.ericconrad.com/) 
 
 * [Errata Security](https://blog.erratasec.com/) 
+
+* [Gynvael Coldwind](https://gynvael.coldwind.pl/) 
 
 * [HACKMAGEDDON](https://www.hackmageddon.com) 
 
@@ -440,8 +420,6 @@ Below a list of all the sites, feel free to suggest others!
 * [damsky](https://damsky.tech) 
 
 * [eXploit](https://exploit.ph/) 
-
-* [gynvael.coldwind//vx.log (en)](https://gynvael.coldwind.pl/) 
 
 * [harmj0y](http://www.harmj0y.net/blog) 
 
@@ -601,8 +579,6 @@ Below a list of all the sites, feel free to suggest others!
 * [Sensepost](https://sensepost.com/rss.xml) 
 
 * [SerHack – Security research on SerHack – Security researcher](https://serhack.me/) 
-
-* [Shielder](https://www.shielder.it/blog/) 
 
 * [Taszk Labs on taszk.io labs](https://labs.taszk.io/) 
 
