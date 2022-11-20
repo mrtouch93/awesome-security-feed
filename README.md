@@ -5,13 +5,6 @@ You can import the opml file to a service like Feedly, Tiny Tiny RSS or similar.
 
 Below a list of all the sites, feel free to suggest others!
 
-# Awesome Security Feeds
-A semi-curated list of Security Feeds
-
-You can import the opml file to a service like Feedly, Tiny Tiny RSS or similar.
-
-Below a list of all the sites, feel free to suggest others!
-
 ## Contents
 - [CTF](#CTF)
 - [Companies](#Companies)
