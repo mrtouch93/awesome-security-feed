@@ -5,6 +5,13 @@ You can import the opml file to a service like Feedly, Tiny Tiny RSS or similar.
 
 Below a list of all the sites, feel free to suggest others!
 
+# Awesome Security Feeds
+A semi-curated list of Security Feeds
+
+You can import the opml file to a service like Feedly, Tiny Tiny RSS or similar.
+
+Below a list of all the sites, feel free to suggest others!
+
 ## Contents
 - [CTF](#CTF)
 - [Companies](#Companies)
@@ -12,17 +19,17 @@ Below a list of all the sites, feel free to suggest others!
 - [Conferences & Video](#Conferences_and_Video)
 - [CyberIntelligence](#CyberIntelligence)
 - [Forensics](#Forensics)
-- [Hacking Distro](#Hacking_Distro)
 - [Italiano](#Italiano)
 - [Malware](#Malware)
 - [Miscellaneous](#Miscellaneous)
+- [Offensive Security](#Offensive_Security)
 - [Pentest](#Pentest)
 - [Privacy](#Privacy)
-- [Research](#Research)
 - [Security News](#Security_News)
 - [Security Tools](#Security_Tools)
 - [Web Security](#Web_Security)
 - [reddit](#reddit)
+
 ## CTF
 * [#!/slash/note](https://leonjza.github.io/) 
 
@@ -41,40 +48,26 @@ Below a list of all the sites, feel free to suggest others!
 
 * [CrowdStrike](https://www.crowdstrike.com/blog) 
 
-* [HIPAA News, Web & Email Security Tips & News - Plus More | LuxSci](https://luxsci.com/blog) 
-
-* [JUMPSEC | CREST Accredited](https://www.jumpsec.com) 
-
 * [Microsoft Security](https://www.microsoft.com/security/blog) 
 
 * [Mosaic Security Research](https://mosaicsecurity.com) 
 
 * [Mozilla Security Blog](https://blog.mozilla.org/security) 
 
-* [ProtonMail Blog](https://protonmail.com/blog) 
-
-* [Qualys Security Blog](https://blog.qualys.com) 
-
-* [Secureworks Blog](https://www.secureworks.com/blog) 
-
 * [Shodan Blog](https://blog.shodan.io/) 
 
 * [SpiderLabs Blog from Trustwave](https://www.trustwave.com/en-us/) 
 
-* [Strategic Cyber LLC](https://blog.cobaltstrike.com) 
-
-* [Sucuri Blog](https://blog.sucuri.net) 
-
 * [TrustedSec](https://www.trustedsec.com) 
 
 ## Companies_research
-* [Fortinet Blog](https://www.fortinet.com/bin/fortinet/allblogsrss?search=threat-research) 
+* [Fortinet Blog](https://feeds.fortinet.com/fortinet/blog/threat-research) 
 
 * [Google Online Security Blog](http://security.googleblog.com/) 
 
 * [Shielder](https://www.shielder.it/blog/) 
 
-* [Threat Research](http://www.fireeye.com/blog/threat-research.html) 
+* [Threat Research](https://www.fireeye.com/blog/threat-research/_jcr_content.feed) 
 
 ## Conferences_and_Video
 * [Defcon](https://www.defcon.org/) 
@@ -90,13 +83,7 @@ Below a list of all the sites, feel free to suggest others!
 * [media.ccc.de - NEWS](http://media.ccc.de) 
 
 ## CyberIntelligence
-* [Automating OSINT Blog](http://www.automatingosint.com/blog) 
-
 * [Cyber Strategies for a World at War](https://cyberstrategies.wordpress.com) 
-
-* [CyberCrime & Doing Time](http://garwarner.blogspot.com/) 
-
-* [IntelTechniques](https://inteltechniques.com/blog) 
 
 * [JestersCourt](https://th3j35t3r.wordpress.com) 
 
@@ -105,22 +92,11 @@ Below a list of all the sites, feel free to suggest others!
 * [bellingcat](https://www.bellingcat.com) 
 
 ## Forensics
-* [Forensic Focus](https://www.forensicfocus.com) 
-
 * [Hacking Exposed Computer Forensics Blog](https://www.hecfblog.com/) 
 
 * [NETRESEC Network Security Blog](http://www.netresec.com/?page=Blog) 
 
 * [PC's Xcetra Support](https://pcsxcetrasupport3.wordpress.com) 
-
-## Hacking_Distro
-* [BackBox Linux blogs](https://blog.backbox.org) 
-
-* [Kali Linux](https://www.kali.org) 
-
-* [Tails - News](https://tails.boum.org/news/index.en.html) 
-
-* [WeakNet Labs](http://www.weaknetlabs.com/) 
 
 ## Italiano
 * [Andrea Draghetti](https://www.andreadraghetti.it) 
@@ -138,8 +114,6 @@ Below a list of all the sites, feel free to suggest others!
 * [D3Lab](https://www.d3lab.net) 
 
 * [Dark Space Blogspot](http://darkwhite666.blogspot.com/) 
-
-* [F-Hack » Feed](https://f-hack.com) 
 
 * [Fabio Natalucci Post](https://www.fabionatalucci.it) 
 
@@ -207,7 +181,9 @@ Below a list of all the sites, feel free to suggest others!
 * [contagio](http://contagiodump.blogspot.com/) 
 
 ## Miscellaneous
-* [#_shellntel](https://www.shellntel.com/) 
+* [#_shellntel](https://www.synercomm.com) 
+
+* [/dev/random](https://blog.rootshell.be) 
 
 * [0x00sec - The Home of the Hacker - Monthly top topics](https://0x00sec.org/top/monthly) 
 
@@ -215,9 +191,9 @@ Below a list of all the sites, feel free to suggest others!
 
 * [0xAA - Random notes on security](http://antukh.com/) 
 
-* [@D00m3dr4v3n](https://www.doomedraven.com/) 
+* [Fox-IT International blog](https://blog.fox-it.com) 
 
-* [@Jackson_T](http://jackson-t.ca/) 
+* [@D00m3dr4v3n](https://www.doomedraven.com/) 
 
 * [A Few Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com) 
 
@@ -237,23 +213,15 @@ Below a list of all the sites, feel free to suggest others!
 
 * [Blog - Decent Security](http://decentsecurity.com/blog/) 
 
-* [Blog – WhiteHat Security](https://www.whitehatsec.com) 
-
 * [BlueKaizen](http://www.bluekaizen.org) 
 
+* [NetSPI Blog](https://blog.netspi.com) 
+
 * [CERT Blogs](https://insights.sei.cmu.edu/cert/) 
-
-* [CYBER ARMS](https://cyberarms.wordpress.com) 
-
-* [Coding Horror](https://blog.codinghorror.com/) 
-
-* [CyberWatch](https://whitehatcheryl.com) 
 
 * [Cybersecurity Blog](http://infosecninja.blogspot.com/) 
 
 * [Daniel Miessler](https://danielmiessler.com) 
-
-* [Darknet](https://www.darknet.org.uk) 
 
 * [Dave Waterson on Security](https://dwaterson.com) 
 
@@ -265,17 +233,13 @@ Below a list of all the sites, feel free to suggest others!
 
 * [Down the Security Rabbithole Blog - Supplemental](http://blog.wh1t3rabbit.net/) 
 
+* [Security Research & Defense](https://msrc-blog.microsoft.com) 
+
 * [Eric Conrad](https://www.ericconrad.com/) 
 
 * [Errata Security](https://blog.erratasec.com/) 
 
 * [Gynvael Coldwind](https://gynvael.coldwind.pl/) 
-
-* [HACKMAGEDDON](https://www.hackmageddon.com) 
-
-* [Hacking and security](https://hackingandsecurity.blogspot.com/) 
-
-* [Hackw0rm.net](https://www.hackw0rm.net/) 
 
 * [Hakin9 – IT Security Magazine](https://hakin9.org) 
 
@@ -315,15 +279,9 @@ Below a list of all the sites, feel free to suggest others!
 
 * [Linux Audit](https://linux-audit.com) 
 
-* [LockBoxx](http://lockboxx.blogspot.com/) 
-
-* [MOV AX, BX](https://movaxbx.ru) 
-
 * [Martin Vigo](https://www.martinvigo.com) 
 
 * [Max Kersten](https://maxkersten.nl) 
-
-* [NVISO Labs](https://blog.nviso.eu) 
 
 * [NotSoSecure](https://notsosecure.com) 
 
@@ -331,29 +289,19 @@ Below a list of all the sites, feel free to suggest others!
 
 * [Pentestmag](https://pentestmag.com) 
 
-* [Posts By SpecterOps Team Members](https://posts.specterops.io?source=rss----f05f8696e3cc---4) 
-
 * [Posts on malicious.link](https://malicious.link/post/) 
 
 * [Real-time communications security on Communication Breakdown - real-time communications security](https://www.rtcsec.com/) 
 
 * [Red Teaming - Red Teams](https://redteams.net/redteaming/) 
 
-* [SANS Institute Security Awareness Tip of the Day](https://www.sans.org/tip-of-the-day/rss) 
-
 * [SANS Internet Storm Center, InfoCON: green](https://isc.sans.edu) 
 
 * [Schneier on Security](https://www.schneier.com) 
 
-* [Securelist](https://securelist.com) 
-
-* [Security Art Work](https://www.securityartwork.es) 
-
 * [Security Intelligence and Big Data](https://raffy.ch/blog) 
 
 * [Security Spread](http://securityspread.com) 
-
-* [Security Through Education](https://www.social-engineer.org) 
 
 * [Security Training](https://www.securitytut.com) 
 
@@ -361,13 +309,7 @@ Below a list of all the sites, feel free to suggest others!
 
 * [Security on the edge](http://edge-security.blogspot.com/) 
 
-* [SecurityCurrent](https://securitycurrent.com) 
-
 * [Securosis Complete](http://securosis.com/blog) 
-
-* [Shell is Only the Beginning](https://www.darkoperator.com/) 
-
-* [SkullSecurity](https://blog.skullsecurity.org) 
 
 * [SkullSecurity](https://blog.skullsecurity.org) 
 
@@ -385,8 +327,6 @@ Below a list of all the sites, feel free to suggest others!
 
 * [The Grymoire](https://grymoire.wordpress.com) 
 
-* [The Honeynet Project blogs](http://www.honeynet.org/blog) 
-
 * [The Sakurity Blog](https://sakurity.com/blog/) 
 
 * [The World of IT & Cyber Security: ehacking.net](http://www.ehacking.net/) 
@@ -395,19 +335,13 @@ Below a list of all the sites, feel free to suggest others!
 
 * [Thoughts on Security](https://www.scriptjunkie.us) 
 
-* [Tinyhack.com](https://tinyhack.com) 
-
 * [Travis Altman](http://travisaltman.com) 
 
 * [Troy Hunt's Blog](https://www.troyhunt.com/) 
 
-* [Tyranid's Lair](https://www.tiraniddo.dev/) 
-
 * [Uncommon Sense Security](http://blog.uncommonsensesecurity.com/) 
 
 * [Volatility Labs](https://volatility-labs.blogspot.com/) 
-
-* [Webroot Blog](https://www.webroot.com/blog) 
 
 * [WhiteScope IO](http://blog.whitescope.io/) 
 
@@ -418,8 +352,6 @@ Below a list of all the sites, feel free to suggest others!
 * [binary foray](https://binaryforay.blogspot.com/) 
 
 * [damsky](https://damsky.tech) 
-
-* [eXploit](https://exploit.ph/) 
 
 * [harmj0y](http://www.harmj0y.net/blog) 
 
@@ -437,26 +369,109 @@ Below a list of all the sites, feel free to suggest others!
 
 * [xorl %eax, %eax](https://xorl.wordpress.com) 
 
-## Pentest
-* [0xFFFF@blog:~$](https://blog.0xffff.info) 
+## Offensive_Security
+* [Home](https://connormcgarr.github.io/) 
 
-* [@Mediaservice.net Technical Blog](https://techblog.mediaservice.net) 
+* [Posts on Maurice's Blog 🐍](https://momo5502.com/posts/) 
+
+* [Shogun Lab | 将軍ラボ](http://www.shogunlab.com/) 
+
+* [The Human Machine Interface](https://h0mbre.github.io/) 
+
+* [MOV AX, BX](https://movaxbx.ru) 
+
+* [NVISO Labs](https://blog.nviso.eu) 
+
+* [Posts By SpecterOps Team Members](https://posts.specterops.io?source=rss----f05f8696e3cc---4) 
+
+* [Shell is Only the Beginning](https://www.darkoperator.com/) 
+
+* [GitHub Security Lab | Research](https://securitylab.github.com/) 
+
+* [Tyranid's Lair](https://www.tiraniddo.dev/) 
+
+* [Haxolot.com](https://haxolot.com/) 
+
+* [Corelan Team](https://www.corelan.be) 
+
+* [eXploit](https://exploit.ph/) 
+
+* [APT::WTF - APTortellini’s blog](http://aptw.tf/) 
+
+* [Include Security Research Blog](https://blog.includesecurity.com) 
+
+* [Bill Demirkapi’s Blog](https://billdemirkapi.me/) 
+
+* [CENSUS](https://census-labs.com/news/) 
+
+* [CodeColorist](https://blog.chichou.me/) 
+
+* [MDSec](https://www.mdsec.co.uk) 
+
+* [MalwareTech](https://www.malwaretech.com) 
+
+* [Max Justicz](https://justi.cz/) 
+
+* [Microsoft Browser Vulnerability Research](https://microsoftedge.github.io) 
+
+* [Mogozobo](https://www.mogozobo.com) 
+
+* [NVISO Labs](https://blog.nviso.eu) 
+
+* [Niemand – Cyber Security](https://niemand.com.ar) 
+
+* [Orange Tsai](http://blog.orange.tw/) 
+
+* [Project Zero](https://googleprojectzero.blogspot.com/) 
+
+* [Randy Westergren](https://randywestergren.com) 
+
+* [Rhino Security Labs](https://rhinosecuritylabs.com) 
+
+* [SecLists - Full Disclosure](https://seclists.org/fulldisclosure/) 
+
+* [Sector 7](https://sector7.computest.nl/) 
+
+* [Security Sift](https://www.securitysift.com) 
+
+* [Sensepost](https://sensepost.com/rss.xml) 
+
+* [SerHack – Security research on SerHack – Security researcher](https://serhack.me/) 
+
+* [Source Incite](https://srcincite.io/) 
+
+* [Taszk Labs on taszk.io labs](https://labs.taszk.io/) 
+
+* [TheHackerBlog](https://thehackerblog.com) 
+
+* [VoidSec](https://voidsec.com) 
+
+* [enigma0x3](https://enigma0x3.net) 
+
+* [evilsocket](https://www.evilsocket.net/) 
+
+* [l.avala.mp's place](https://l.avala.mp) 
+
+* [vibrio’s personal infosec blog](https://ricardojba.github.io/) 
+
+* [| bohops |](https://bohops.com) 
+
+## Pentest
+* [BorderGate](https://www.bordergate.co.uk/) 
 
 * [Active Directory Security](https://adsecurity.org) 
 
 * [Adepts of 0xCC](https://adepts.of0x.cc/) 
 
-* [AppSec-Labs | Application Security](https://appsec-labs.com/portal) 
-
 * [Appsecco](https://blog.appsecco.com?source=rss----e2adb3957733---4) 
 
 * [Attack and Defense Labs](http://blog.andlabs.org/) 
 
+* [Boschko Security Blog](https://boschko.ca/) 
+
 * [Carnal0wnage & Attack Research Blog](http://carnal0wnage.attackresearch.com/) 
 
 * [Cheesy Rumbles](https://rastamouse.me/) 
-
-* [Corelan Team](https://www.corelan.be) 
 
 * [DEADCODE](https://0xdeadcode.se) 
 
@@ -504,6 +519,8 @@ Below a list of all the sites, feel free to suggest others!
 
 * [blackMORE Ops](https://www.blackmoreops.com) 
 
+* [br3akp0int](https://br3akp0int.blogspot.com/) 
+
 * [cat /dev/brain](https://naehrdine.blogspot.com/) 
 
 * [dotcppfile's Blog](https://dotcppfile.wordpress.com) 
@@ -521,114 +538,23 @@ Below a list of all the sites, feel free to suggest others!
 
 * [Updates from the Tor Project](https://blog.torproject.org/) 
 
-## Research
-* [/dev/random](https://blog.rootshell.be) 
-
-* [APT::WTF - APTortellini’s blog](http://aptw.tf/) 
-
-* [Bill Demirkapi’s Blog](https://billdemirkapi.me/) 
-
-* [Blog](http://blog.gdssecurity.com/labs/) 
-
-* [CENSUS](https://census-labs.com/news/) 
-
-* [CodeColorist](https://blog.chichou.me/) 
-
-* [F-Secure Antivirus Research Weblog](https://www.f-secure.com/weblog) 
-
-* [Fox-IT International blog](https://blog.fox-it.com) 
-
-* [GitHub Security Lab | Research](https://securitylab.github.com/) 
-
-* [Haxolot.com](https://haxolot.com/) 
-
-* [MDSec](https://www.mdsec.co.uk) 
-
-* [MSitPros Blog](https://msitpros.com) 
-
-* [MalwareTech](https://www.malwaretech.com) 
-
-* [Max Justicz](https://justi.cz/) 
-
-* [Microsoft Browser Vulnerability Research](https://microsoftedge.github.io) 
-
-* [Mogozobo](https://www.mogozobo.com) 
-
-* [NVISO Labs](https://blog.nviso.eu) 
-
-* [NetSPI Blog](https://blog.netspi.com) 
-
-* [Niemand – Cyber Security](https://niemand.com.ar) 
-
-* [Orange Tsai](http://blog.orange.tw/) 
-
-* [Project Zero](https://googleprojectzero.blogspot.com/) 
-
-* [Randy Westergren](https://randywestergren.com) 
-
-* [Rhino Security Labs](https://rhinosecuritylabs.com) 
-
-* [SecLists - Full Disclosure](https://seclists.org/fulldisclosure/) 
-
-* [Sector 7](https://sector7.computest.nl/) 
-
-* [Security Research & Defense](https://msrc-blog.microsoft.com) 
-
-* [Security Sift](https://www.securitysift.com) 
-
-* [Sensepost](https://sensepost.com/rss.xml) 
-
-* [SerHack – Security research on SerHack – Security researcher](https://serhack.me/) 
-
-* [Taszk Labs on taszk.io labs](https://labs.taszk.io/) 
-
-* [TheHackerBlog](https://thehackerblog.com) 
-
-* [VoidSec](https://voidsec.com) 
-
-* [enigma0x3](https://enigma0x3.net) 
-
-* [evilsocket](https://www.evilsocket.net/) 
-
-* [l.avala.mp's place](https://l.avala.mp) 
-
-* [vibrio’s personal infosec blog](https://ricardojba.github.io/) 
-
-* [| bohops |](https://bohops.com) 
-
 ## Security_News
-* [Dark Reading](https://www.darkreading.com) 
-
 * [Graham Cluley](https://grahamcluley.com) 
 
-* [Instapaper: Unread](https://www.instapaper.com/u) 
-
 * [Krebs on Security](https://krebsonsecurity.com) 
-
-* [Palo Alto Networks Blog](https://blog.paloaltonetworks.com) 
 
 * [Security Affairs](https://securityaffairs.co/wordpress) 
 
 * [The Hacker News](https://thehackernews.com/) 
 
-* [The Register - Security](https://www.theregister.com/security/) 
-
-* [ThreatPost](https://threatpost.com) 
-
-* [TorrentFreak](https://torrentfreak.com) 
-
-* [Trend Micro Simply Security](https://blog.trendmicro.com) 
-
-* [US-CERT Alerts](https://us-cert.cisa.gov/) 
-
-* [US-CERT Current Activity](https://us-cert.cisa.gov/) 
-
 ## Security_Tools
+* [Darknet](https://www.darknet.org.uk) 
+
 * [KitPloit - PenTest Tools!](http://www.kitploit.com/) 
 
-* [ToolsWatch.org](https://www.toolswatch.org) 
-
 ## Web_Security
+* [Vickie Li’s Security Blog](https://vickieli.dev/) 
+
 * [Agarri : Sécurité informatique offensive](https://www.agarri.fr/blog) 
 
 * [Brett Buerhaus](https://buer.haus) 
