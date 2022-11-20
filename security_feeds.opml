@@ -54,7 +54,7 @@
       <outline type="rss" text="bellingcat" xmlUrl="https://bellingcat.com/feed/" htmlUrl="https://www.bellingcat.com"/>
     </outline>
     <outline text="Forensics">
-      <outline type="rss" text="Forensic Focus" xmlUrl="http://www.forensicfocus.com/rss/news2.php" htmlUrl="https://www.forensicfocus.com"/>
+      <outline type="rss" text="Forensic Focus" xmlUrl="https://www.forensicfocus.com/feed/" htmlUrl="https://www.forensicfocus.com"/>
       <outline type="rss" text="Hacking Exposed Computer Forensics Blog" xmlUrl="http://www.hecfblog.com/feeds/posts/default" htmlUrl="https://www.hecfblog.com/"/>
       <outline type="rss" text="NETRESEC Network Security Blog" xmlUrl="http://www.netresec.com/rss.ashx" htmlUrl="http://www.netresec.com/?page=Blog"/>
       <outline type="rss" text="PC's Xcetra Support" xmlUrl="http://pcsxcetrasupport3.wordpress.com/feed/" htmlUrl="https://pcsxcetrasupport3.wordpress.com"/>
