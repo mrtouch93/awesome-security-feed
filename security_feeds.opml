@@ -34,7 +34,7 @@
       <outline type="rss" text="Fortinet Blog" xmlUrl="https://feeds.fortinet.com/fortinet/blog/threat-research" htmlUrl="https://feeds.fortinet.com/fortinet/blog/threat-research"/>
       <outline type="rss" text="Google Online Security Blog" xmlUrl="https://feeds.feedburner.com/GoogleOnlineSecurityBlog" htmlUrl="http://security.googleblog.com/"/>
       <outline type="rss" text="Shielder" xmlUrl="https://www.shielder.it/blog/index.xml" htmlUrl="https://www.shielder.it/blog/"/>
-      <outline type="rss" text="Threat Research" xmlUrl="http://www.fireeye.com/blog/feed" htmlUrl="http://www.fireeye.com/blog/threat-research.html"/>
+      <outline type="rss" text="Threat Research" xmlUrl="https://www.fireeye.com/blog/threat-research/_jcr_content.feed" htmlUrl="http://www.fireeye.com/blog/threat-research.html"/>
     </outline>
     <outline text="Conferences &amp; Video">
       <outline type="rss" text="Defcon" xmlUrl="https://www.defcon.org/defconrss.xml" htmlUrl="https://www.defcon.org/"/>
