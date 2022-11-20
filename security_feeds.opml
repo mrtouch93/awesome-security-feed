@@ -21,7 +21,7 @@
       <outline type="rss" text="Microsoft Security" xmlUrl="https://cloudblogs.microsoft.com/microsoftsecure/feed/" htmlUrl="https://www.microsoft.com/security/blog"/>
       <outline type="rss" text="Mosaic Security Research" xmlUrl="http://mosaicsecurity.com/feed/" htmlUrl="https://mosaicsecurity.com"/>
       <outline type="rss" text="Mozilla Security Blog" xmlUrl="https://blog.mozilla.org/security/feed/" htmlUrl="https://blog.mozilla.org/security"/>
-      <outline type="rss" text="ProtonMail Blog" xmlUrl="https://protonmail.ch/blog/feed/" htmlUrl="https://protonmail.com/blog"/>
+      <outline type="rss" text="ProtonMail Blog" xmlUrl="https://proton.me/blog/feed" htmlUrl="https://proton.me/blog/"/>
       <outline type="rss" text="Qualys Security Blog" xmlUrl="https://blog.qualys.com/feed" htmlUrl="https://blog.qualys.com"/>
       <outline type="rss" text="Secureworks Blog" xmlUrl="https://www.secureworks.com/rss?feed=blog" htmlUrl="https://www.secureworks.com/blog"/>
       <outline type="rss" text="Shodan Blog" xmlUrl="http://blog.shodan.io/rss/" htmlUrl="https://blog.shodan.io/"/>
