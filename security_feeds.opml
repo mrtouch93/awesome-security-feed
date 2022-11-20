@@ -31,7 +31,7 @@
       <outline type="rss" text="TrustedSec" xmlUrl="https://www.trustedsec.com/feed/" htmlUrl="https://www.trustedsec.com"/>
     </outline>
     <outline text="Companies research">
-      <outline type="rss" text="Fortinet Blog" xmlUrl="http://feeds.feedburner.com/fortinet/blog/threat-research" htmlUrl="https://www.fortinet.com/bin/fortinet/allblogsrss?search=threat-research"/>
+      <outline type="rss" text="Fortinet Blog" xmlUrl="https://feeds.fortinet.com/fortinet/blog/threat-research" htmlUrl="https://feeds.fortinet.com/fortinet/blog/threat-research"/>
       <outline type="rss" text="Google Online Security Blog" xmlUrl="https://feeds.feedburner.com/GoogleOnlineSecurityBlog" htmlUrl="http://security.googleblog.com/"/>
       <outline type="rss" text="Shielder" xmlUrl="https://www.shielder.it/blog/index.xml" htmlUrl="https://www.shielder.it/blog/"/>
       <outline type="rss" text="Threat Research" xmlUrl="http://www.fireeye.com/blog/feed" htmlUrl="http://www.fireeye.com/blog/threat-research.html"/>
