@@ -603,4 +603,6 @@ Below a list of all the sites, feel free to suggest others!
 
 * [Reverse Engineering](https://www.reddit.com/r/ReverseEngineering/) 
 
-* [Social Engineering](https://www.reddit.com/r/SocialEngineering/) 
+* [Social Engineering](https://www.reddit.com/r/SocialEngineering/)
+
+* [ThreatPrism](http://173.249.14.219/threatprism/) - Cryptographically signed threat-intel feed (EIP-712). RSS + JSON API. [RSS](http://173.249.14.219/threatprism/rss) | [Schema](http://173.249.14.219/threatprism/schema) | [Discovery](http://173.249.14.219/.well-known/attestation-issuer.json)
