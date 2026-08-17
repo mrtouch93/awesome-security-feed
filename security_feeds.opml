@@ -282,6 +282,7 @@
       <outline type="rss" text="Krebs on Security" xmlUrl="http://krebsonsecurity.com/feed/" ttrssSortOrder="4" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://krebsonsecurity.com"/>
       <outline type="rss" text="Security Affairs" xmlUrl="http://securityaffairs.co/wordpress/feed" ttrssSortOrder="6" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://securityaffairs.co/wordpress"/>
       <outline type="rss" text="The Hacker News" xmlUrl="http://feeds.feedburner.com/TheHackersNews" ttrssSortOrder="7" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://thehackernews.com/"/>
+      <outline type="rss" text="ThreatCluster" xmlUrl="https://threatcluster.io/feed.xml" htmlUrl="https://threatcluster.io/"/>
     </outline>
     <outline text="Security Tools" ttrssSortOrder="15">
       <outline type="rss" text="Darknet" xmlUrl="https://www.darknet.org.uk/feed/" ttrssSortOrder="1" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.darknet.org.uk"/>
