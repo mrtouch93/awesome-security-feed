@@ -538,6 +538,8 @@ Below a list of all the sites, feel free to suggest others!
 
 * [Security Affairs](https://securityaffairs.co/wordpress) 
 
+* [ThreatCluster](https://threatcluster.io) 
+
 * [The Hacker News](https://thehackernews.com/) 
 
 ## Security_Tools
