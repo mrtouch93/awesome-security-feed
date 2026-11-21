@@ -546,6 +546,7 @@ Below a list of all the sites, feel free to suggest others!
 * [KitPloit - PenTest Tools!](http://www.kitploit.com/) 
 
 * [Binary Translator](https://binarytranslator.app/) 
+
 ## Web_Security
 * [Vickie Li’s Security Blog](https://vickieli.dev/) 
 
